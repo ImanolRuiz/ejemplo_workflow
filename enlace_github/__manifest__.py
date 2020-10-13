@@ -3,7 +3,7 @@
     'name': "enlace_github",
 
     'summary': """
-        Añade un campo a un contacto donde puede introducir su enlace a su github""",
+        Añade un campo a un contacto donde puede introducir su enlace a su githubdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd""",
 
     'description': """
         Añade un campo a un contacto donde puede introducir su enlace a su github
